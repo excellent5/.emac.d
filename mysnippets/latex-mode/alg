@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: alg
+# key: alg
+# --
+\begin{algorithm}
+\caption{$1}
+\begin{algorithmic}
+
+$0
+
+\end{algorithmic}
+\end{algorithm}

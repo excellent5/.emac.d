@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: enum
+# key: enum
+# --
+\begin{enumerate}[label=(\alph*)]
+
+\item $0
+
+\end{enumerate}

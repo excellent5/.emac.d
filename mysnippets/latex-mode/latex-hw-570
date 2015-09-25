@@ -1,0 +1,24 @@
+# -*- mode: snippet -*-
+# name: latex-hw-570
+# key: hw570
+# --
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,left=3.5cm,top=2cm,right=3.5cm,bottom=3.5cm]{geometry}
+\usepackage{indentfirst}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\usepackage{enumitem}
+
+\title{CSCI 570-Fall 2015-HW}
+\author{7666495671 Yang Zhan}
+
+\begin{document}
+
+\maketitle
+
+\section{Question ${1:2}}
+
+$0
+
+\end{document}

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: 570sec
+# key: 570sec
+# --
+\section{$1}
+
+$0

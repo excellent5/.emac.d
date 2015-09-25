@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: table
+# key: tablex
+# --
+\begin{table}[!ht]
+\begin{center}
+\begin{tabular}{$1}
+
+$0
+
+\end{tabular}
+\end{center}
+\end{table}
